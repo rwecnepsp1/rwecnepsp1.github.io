@@ -5,8 +5,8 @@
 <title> NEWJEANSOT5 </title>
 </head>
 
-
-
-<h1> everyone just got baggy jeans and boxy tee and call it a day </h1>
+<style>
+{
+<h1> The state of 2026 fashion</h1>
   
 </html>
