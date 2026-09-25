@@ -1,12 +1,16 @@
 <!DOCTYPE HTML>
 <html>
 
-<head> 
+<head>
+<style>
+body {background:gray}
+</style>
 <title> NEWJEANSOT5 </title>
 </head>
 
-<style>
-{
-<h1> The state of 2026 fashion</h1>
-  
+<body>
+
+<h1> <span style= “font-style: bold;”> The state of 2026 fashion</span> </h1>
+
+
 </html>
